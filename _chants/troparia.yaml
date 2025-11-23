@@ -1,80 +1,89 @@
 - id: 'troparia_chant_6'
-  title_ko: '부활 찬양송 6조'
-  title_gr: 'Ἀπολυτίκιον, Ἦχος πλ. β’'
-  title_slavic: 'Тропарь воскресен, глас 6'
-  ko_lyrics:
-    '주의 무덤에 천군이 임하여 / 보초병을 기절케하고
-    마리아는 주의 무덤에서 지극히 정결하신 시신을 찾았으나/
-    주는 손상됨이 없이 저승을 사로 잡았도다./
-    동정녀로부터 태어나시어 / 생명을 베푸셨나니 /
-    죽음에서 부활하신 이여, 당신께 영광 돌리나이다.'
-  en_lyrics:
-    'Angelic hosts were above Thy tomb, / 
-    and they that guarded Thee became as dead, /
-    and Mary stood by the grave seeking Thine immaculate body,/
-    Thou didst despoil hades and wast not tempted by it. /
-    Thou didst meet the Virgin and didst grant us life. //
-    O Thou who didst rise from the dead, O Lord, glory be to Thee.'
-  gr_lyrics:
-    "Ἀγγελικαὶ Δυνάμεις ἐπὶ τὸ μνῆμά σου 
-    καὶ οἱ φυλάσσοντες ἀπενεκρώθησαν 
-    καὶ ἵστατο Μαρία ἐν τῷ τάφῳ, 
-    ζητοῦσα τὸ ἄχραντόν σου σῶμα. 
-    Ἐσκύλευσας τὸν ᾍδην, μὴ πειρασθεὶς ὑπ' αὐτοῦ, 
-    ὑπήντησας τῇ Παρθένῳ, δωρούμενος τὴν ζωήν, 
-    ὁ ἀναστὰς ἐκ των νεκρῶν, Κύριε δόξα Σοι."
-  slavic_lyrics:
-    "А́нгельския Си́лы на гро́бе Твое́м, /
-    и стрегу́щии омертве́ша; /
-    и стоя́ше Мари́я во гро́бе, /
-    и́щущи Пречи́стаго Те́ла Твоего́. /
-    Плени́л еси́ ад, не искуси́вся от него́; /
-    сре́тил еси́ Де́ву, да́руяй живо́т. /
-    Воскресы́й из ме́ртвых, Го́споди, сла́ва Тебе́."
+  title:
+    ko: '부활 찬양송 6조'
+    en: 'Resurrectional Troparion, Tone 6'
+    gr: 'Ἀπολυτίκιον, Ἦχος πλ. β’'
+    slavic: 'Тропарь воскресен, глас 6'
+  lyrics:
+    ko:
+      '주의 무덤에 천군이 임하여 / 보초병을 기절케하고
+      마리아는 주의 무덤에서 지극히 정결하신 시신을 찾았으나/
+      주는 손상됨이 없이 저승을 사로 잡았도다./
+      동정녀로부터 태어나시어 / 생명을 베푸셨나니 /
+      죽음에서 부활하신 이여, 당신께 영광 돌리나이다.'
+    en:
+      'Angelic hosts were above Thy tomb, / 
+      and they that guarded Thee became as dead, /
+      and Mary stood by the grave seeking Thine immaculate body,/
+      Thou didst despoil hades and wast not tempted by it. /
+      Thou didst meet the Virgin and didst grant us life. //
+      O Thou who didst rise from the dead, O Lord, glory be to Thee.'
+    gr:
+      "Ἀγγελικαὶ Δυνάμεις ἐπὶ τὸ μνῆμά σου 
+      καὶ οἱ φυλάσσοντες ἀπενεκρώθησαν 
+      καὶ ἵστατο Μαρία ἐν τῷ τάφῳ, 
+      ζητοῦσα τὸ ἄχραντόν σου σῶμα. 
+      Ἐσκύλευσας τὸν ᾍδην, μὴ πειρασθεὶς ὑπ' αὐτοῦ, 
+      ὑπήντησας τῇ Παρθένῳ, δωρούμενος τὴν ζωήν, 
+      ὁ ἀναστὰς ἐκ των νεκρῶν, Κύριε δόξα Σοι."
+    slavic:
+      "А́нгельския Си́лы на гро́бе Твое́м, /
+      и стрегу́щии омертве́ша; /
+      и стоя́ше Мари́я во гро́бе, /
+      и́щущи Пречи́стаго Те́ла Твоего́. /
+      Плени́л еси́ ад, не искуси́вся от него́; /
+      сре́тил еси́ Де́ву, да́руяй живо́т. /
+      Воскресы́й из ме́ртвых, Го́споди, сла́ва Тебе́."
 
 - id: 'troparia_chant_7'
-  title_ko: '부활 찬양송 7조'
-  title_gr: 'Ἀπολυτίκιον, Ἦχος βαρύς'
-  title_slavic: 'Тропарь воскресен, глас 7'
-  ko_lyrics: "주여, 당신의 십자가로 죽음을 멸하시고,
-    강도에게 낙원을 열으셨으며,
-    향유를 들고 온 여인들의 슬픔을 기쁨으로 바꾸셨고,
-    사도들에게 명하사 부활을 선포하게 하시어,
-    온 세상에 큰 자비를 베푸시나이다."
-  en_lyrics: "Thou didst destroy death by Thy Cross, /
-    Thou didst open paradise to the thief. /
-    Thou didst change the lamentation of the Myrrh-bearers, /
-    and Thou didst command Thine Apostles to proclaim /
-    that Thou didst arise, O Christ God, //
-    and grantest to the world great mercy."
-  slavic_lyrics: "Разруши́л еси́ Кресто́м Твои́м смерть, /
-    отве́рзл еси́ разбо́йнику рай; / мироно́сицам плач преложи́л еси́/ 
-    и Апо́столом пропове́дати повеле́л еси́, /
-    я́ко воскре́сл еси́, Христе́ Бо́же, / 
-    да́руяй ми́рови / ве́лию ми́лость."
-  gr_lyrics: "Κατέλυσας τῷ Σταυρῷ Σου τὸν θάνατον· 
-    ἠνέῳξας τῷ Λῃστῇ τὸν Παράδεισον· 
-    τῶν Μυροφόρων τὸν θρῆνον μετέβαλες, 
-    καὶ τοῖς Σοῖς Ἀποστόλοις κηρύττειν ἐπέταξας· 
-    ὅτι ἀνέστης Χριστὲ ὁ Θεός, 
-    παρέχων τῷ κόσμῳ τὸ μέγα ἔλεος."
+  title:
+    ko: '부활 찬양송 7조'
+    en: 'Resurrectional Troparion, Tone 7'
+    gr: 'Ἀπολυτίκιον, Ἦχος βαρύς'
+    slavic: 'Тропарь воскресен, глас 7'
+  lyrics:
+    ko: "주여, 당신의 십자가로 죽음을 멸하시고,
+      강도에게 낙원을 열으셨으며,
+      향유를 들고 온 여인들의 슬픔을 기쁨으로 바꾸셨고,
+      사도들에게 명하사 부활을 선포하게 하시어,
+      온 세상에 큰 자비를 베푸시나이다."
+    en: "Thou didst destroy death by Thy Cross, /
+      Thou didst open paradise to the thief. /
+      Thou didst change the lamentation of the Myrrh-bearers, /
+      and Thou didst command Thine Apostles to proclaim /
+      that Thou didst arise, O Christ God, //
+      and grantest to the world great mercy."
+    slavic: "Разруши́л еси́ Кресто́м Твои́м смерть, /
+      отве́рзл еси́ разбо́йнику рай; / мироно́сицам плач преложи́л еси́/ 
+      и Апо́столом пропове́дати повеле́л еси́, /
+      я́ко воскре́сл еси́, Христе́ Бо́же, / 
+      да́руяй ми́рови / ве́лию ми́лость."
+    gr: "Κατέλυσας τῷ Σταυρῷ Σου τὸν θάνατον· 
+      ἠνέῳξας τῷ Λῃστῇ τὸν Παράδεισον· 
+      τῶν Μυροφόρων τὸν θρῆνον μετέβαλες, 
+      καὶ τοῖς Σοῖς Ἀποστόλοις κηρύττειν ἐπέταξας· 
+      ὅτι ἀνέστης Χριστὲ ὁ Θεός, 
+      παρέχων τῷ κόσμῳ τὸ μέγα ἔλεος."
 
 - id: 'troparia_chant_8'
-  title_ko: '부활 찬양송 8조'
-  title_gr: 'Ἀπολυτίκιον, Ἦχος πλ. δ'
-  title_slavic: 'Тропарь воскресен, глас 8'
-  ko_lyrics: "지극히 높은 곳에서 오신 자비로우신 이여,
-    삼일 간 뭍히심은 우리를 정념에서 해방케 하시려 함이니,
-    우리의 생명과 부활이신 주여, 당신께 영광을 돌리나이다."
-  en_lyrics: "From on high didst Thou descend, O compassionate One; /
-    to burial of three days hast Thou submitted /
-    that Thou mightest free us from our passions. //
-    O our Life and Resurrection, O Lord, glory be to Thee."
-  slavic_lyrics: "С высоты́ снизше́л еси́, Благоутро́бне, /
-    погребе́ние прия́л еси́ тридне́вное, /
-    да нас свободи́ши страсте́й, /
-    Животе́ и Воскресе́ние на́ше, Го́споди, сла́ва Тебе́!"
-  gr_lyrics: "Ἐξ ὕψους κατῆλθες ὁ εὔσπλαγχνος· 
-    ταφὴν καταδέξω τριήμερον· 
-    ἵνα ἡμᾶς ἐλευθερώσῃς τῶν παθῶν, ἡ ζωὴ καὶ ἡ Ἀνάστασις ἡμῶν, Κύριε, δόξα Σοι."
+  title:
+    ko: '부활 찬양송 8조'
+    en: 'Resurrectional Troparion, Tone 8'
+    gr: 'Ἀπολυτίκιον, Ἦχος πλ. δ'
+    slavic: 'Тропарь воскресен, глас 8'
+  lyrics:
+    ko: "지극히 높은 곳에서 오신 자비로우신 이여,
+      삼일 간 뭍히심은 우리를 정념에서 해방케 하시려 함이니,
+      우리의 생명과 부활이신 주여, 당신께 영광을 돌리나이다."
+    en: "From on high didst Thou descend, O compassionate One; /
+      to burial of three days hast Thou submitted /
+      that Thou mightest free us from our passions. //
+      O our Life and Resurrection, O Lord, glory be to Thee."
+    slavic: "С высоты́ снизше́л еси́, Благоутро́бне, /
+      погребе́ние прия́л еси́ тридне́вное, /
+      да нас свободи́ши страсте́й, /
+      Животе́ и Воскресе́ние на́ше, Го́споди, сла́ва Тебе́!"
+    gr: "Ἐξ ὕψους κατῆλθες ὁ εὔσπλαγχνος· 
+      ταφὴν καταδέξω τριήμερον· 
+      ἵνα ἡμᾶς ἐλευθερώσῃς τῶν παθῶν, ἡ ζωὴ καὶ ἡ Ἀνάστασις ἡμῶν, Κύριε, δόξα Σοι."
   
